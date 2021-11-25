@@ -13,6 +13,7 @@
 		3E58BBDE274FFF840028C689 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E58BBDD274FFF840028C689 /* Preview Assets.xcassets */; };
 		3E58BBE5275001120028C689 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E58BBE4275001120028C689 /* Home.swift */; };
 		3E58BBE92750016F0028C689 /* Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E58BBE82750016F0028C689 /* Server.swift */; };
+		3E58BBEB275002070028C689 /* CustomCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E58BBEA275002070028C689 /* CustomCorners.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		3E58BBDD274FFF840028C689 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3E58BBE4275001120028C689 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		3E58BBE82750016F0028C689 /* Server.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Server.swift; sourceTree = "<group>"; };
+		3E58BBEA275002070028C689 /* CustomCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorners.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				3E58BBE4275001120028C689 /* Home.swift */,
+				3E58BBEA275002070028C689 /* CustomCorners.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				3E58BBE5275001120028C689 /* Home.swift in Sources */,
 				3E58BBE92750016F0028C689 /* Server.swift in Sources */,
 				3E58BBD7274FFF810028C689 /* VPN_App_UIApp.swift in Sources */,
+				3E58BBEB275002070028C689 /* CustomCorners.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
